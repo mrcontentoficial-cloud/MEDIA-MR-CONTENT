@@ -14,6 +14,7 @@ motion-graphics/   Piezas de motion graphics (reels, rótulos, reportes)
 
 ### Animaciones
 - **mr-content-sting** — Sting de marca, 1920×1080 · 30fps · ~3.6s. Emblema con entrada en spring, línea de acento con gradiente de marca y posicionamiento "AGENCIA CREATIVA".
+- **mr-content-logo-reveal** — Motion graphic de revelado del logo por capas, 1920×1080 · 30fps · 5s. El logo se descompone en 4 capas (marco, personaje, banner, cámara) que aparecen una por una con easing serio, glow de marca progresivo y barrido de luz especular final.
 
 ### Logos
 - **logo-mr-content.png** — Emblema principal de marca.
