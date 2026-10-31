@@ -16,6 +16,9 @@ motion-graphics/   Piezas de motion graphics (reels, rótulos, reportes)
 - **mr-content-sting** — Sting de marca, 1920×1080 · 30fps · ~3.6s. Emblema con entrada en spring, línea de acento con gradiente de marca y posicionamiento "AGENCIA CREATIVA".
 - **mr-content-logo-reveal** — Motion graphic de revelado del logo por capas, 1920×1080 · 30fps · 5s. El logo se descompone en 4 capas (marco, personaje, banner, cámara) que aparecen una por una con easing serio, glow de marca progresivo y barrido de luz especular final.
 
+### Motion graphics
+- **showreel-salud**: Showreel de motion graphics para el sector salud, 1920×1080 · 60fps · 15s. Concepto "La salud es ciencia. Comunicarla es arte." en paleta estricta azul `#0092FF` y verde `#19D26B`: trazo ECG con onda de latido, iris en forma de cruz médica, slam tipográfico con escaneo, ADN 3D procedural, fluido orgánico, aberración cromática y cierre con CTA "Agenda tu diagnóstico creativo" (WhatsApp 479 150 7070 · mistercontent.studio).
+
 ### Logos
 - **logo-mr-content.png** — Emblema principal de marca.
 
